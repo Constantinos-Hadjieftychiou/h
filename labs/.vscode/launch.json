@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/chadji10/Desktop/UCY/4th semester/EPL222/labs/lab1/Lab01-code",
+      "program": "/Users/chadji10/Desktop/UCY/4th semester/EPL222/labs/lab1/Lab01-code/build/Debug/outDebug"
+    }
+  ]
+}
